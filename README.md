@@ -59,5 +59,5 @@ This project is part of my Honors work aimed at developing a deep learning-based
 ## Results
 - **Accuracy**:
   - TensorFlow/Keras Model: 98%
-  - PyTorch Model: Improved from 84% to 89.9% with tuning.
+  - PyTorch Model: 89.9%
 - **Explainability**: LRP successfully identified significant genomic regions contributing to predictions.
