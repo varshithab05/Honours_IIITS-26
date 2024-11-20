@@ -1,7 +1,7 @@
 # SARS-CoV-2 Variant Classification Using CNN with Explainability
 
 ## Overview
-This project is part of my Honors work aimed at developing a deep learning-based approach for **classifying SARS-CoV-2 variants** using one-hot encoded genomic sequences. The research leverages **1D Convolutional Neural Networks (CNNs)** for efficient and accurate classification, with an added focus on explainability using **Layer-wise Relevance Propagation (LRP)**.
+This project is part of my Honors work aimed at developing a deep learning-based approach for **classifying SARS-CoV-2 variants and Mutation Prediction**. The research leverages **1D Convolutional Neural Networks (CNNs)** for efficient and accurate classification, with an added focus on explainability using **Layer-wise Relevance Propagation (LRP)**.
 
 ---
 
